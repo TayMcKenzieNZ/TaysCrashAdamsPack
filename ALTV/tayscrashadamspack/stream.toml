@@ -1,0 +1,12 @@
+files = [
+    'stream/tayscrashadamspack_male_p.rpf/*',
+    'stream/tayscrashadamspack_male.rpf/*',
+    'stream/tayscrashadamspack_female_p.rpf/*',
+    'stream/tayscrashadamspack_female.rpf/*',
+    'stream/creaturemetadata.rpf/*'
+]
+
+[meta]
+'stream/mp_m_freemode_01_mp_m_tayscrashadamspack.meta' = 'SHOP_PED_APPAREL_META_FILE'
+'stream/mp_f_freemode_01_mp_f_tayscrashadamspack.meta' = 'SHOP_PED_APPAREL_META_FILE'
+'stream/pedalternatevariations.meta' = 'ALTERNATE_VARIATIONS_FILE'
