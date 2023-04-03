@@ -2,6 +2,13 @@
 
 Crash Adams Clothing Pack For AltV, FiveM &amp; Single Player!
 
+<p align="center">
+  <a href="https://github.com/TayMcKenzieNZ/TaysCrashAdamsPack"><img src="https://img.shields.io/badge/license-AGPL--3.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/TayMcKenzieNZ/TaysCrashAdamsPack"><img src="https://img.shields.io/github/stars/TayMcKenzieNZ/TaysCrashAdamsPack.svg?style=social" alt="Star"></a>
+  <a href="https://github.com/TayMcKenzieNZ/TaysCrashAdamsPack"><img src="https://img.shields.io/github/forks/TayMcKenzieNZ/TaysCrashAdamsPack.svg?style=social&label=Forks" alt="Forks"></a>
+</p>
+
+
 # Screenshots 📸
 
 | | | |
