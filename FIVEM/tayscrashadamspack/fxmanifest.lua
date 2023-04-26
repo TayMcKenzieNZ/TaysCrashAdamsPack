@@ -1,7 +1,12 @@
--- Generated with DurtyClothTool
+-- Generated with DurtyClothTool --
+-- Created By TayMcKenzieNZ --
 
 fx_version 'cerulean'
 game { 'gta5' }
+author 'TayMcKenzieNZ'
+description 'canadian Band Crash Adams Inspired Clothing Pack'
+
+
 
 files {
   'mp_m_freemode_01_mp_m_tayscrashadamspack.meta',
